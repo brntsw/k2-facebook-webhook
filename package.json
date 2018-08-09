@@ -1,0 +1,25 @@
+{
+  "name": "k2facewebhook",
+  "version": "1.0.0",
+  "description": "This is a simple webhook to be connected to Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brntsw/k2-facebook-webhook.git"
+  },
+  "keywords": [
+    "chatbot",
+    "facebook",
+    "dialogflow"
+  ],
+  "author": "Bruno Pardini",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bpardini/k2facebookwebhook#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
